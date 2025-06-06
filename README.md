@@ -1,3 +1,6 @@
 ## Contacts
-- Email vlad.larionov.80@mail.ru
-- Telegram @quantummeister
+
+| <!-- -->      | <!-- -->                |
+|:-------------:|:-----------------------:|
+| Telegram      | @quantummeister         |
+| Email         | vlad.larionov.80@mail.ru|
